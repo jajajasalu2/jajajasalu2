@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm just a guy who likes computers and tech stuff. If you do too, we'll probably hit it off!
+
 Currently working on mostly memory management stuff in the Linux Kernel.
 
 Areas of interest:
